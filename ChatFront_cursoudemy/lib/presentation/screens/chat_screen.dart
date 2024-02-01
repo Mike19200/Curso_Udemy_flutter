@@ -16,7 +16,7 @@ class ChatScreen extends StatelessWidget {
             backgroundImage: AssetImage('lib/img/alespf.png'),
           ),
         ),
-        title: const Text('Señor ales'),
+        title: const Text('Señor A'),
         centerTitle: false,
       ),
       body: _ChatView(),
