@@ -89,6 +89,13 @@ const appMenuItems = <MenuItem>[
     icon: Icons.color_lens_outlined
   ),
 
+  MenuItem(
+    title: 'Creditos', 
+    subTitle: 'Creditos del proyecto', 
+    link: '/credits', 
+    icon: Icons.face_3_outlined
+  ),
+
 
 
 ];

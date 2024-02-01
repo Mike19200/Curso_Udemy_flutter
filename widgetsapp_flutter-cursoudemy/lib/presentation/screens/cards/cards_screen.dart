@@ -208,6 +208,7 @@ class _CardType4 extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
 
+    // ignore: unused_local_variable
     final colors = Theme.of(context).colorScheme;
 
     return Card(

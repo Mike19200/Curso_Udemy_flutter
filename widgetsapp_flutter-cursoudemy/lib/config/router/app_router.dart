@@ -71,5 +71,11 @@ final appRouter = GoRouter(
       name: ThemeChangerScreen.name,
       builder: (context, state) => const ThemeChangerScreen(),
     ),
+
+    GoRoute(
+      path: '/credits',
+      name: CreditsScreen.name,
+      builder: (context, state) => const CreditsScreen(),
+    ),
   ],
 );
